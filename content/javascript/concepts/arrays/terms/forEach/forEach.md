@@ -62,7 +62,7 @@ console.log(sumOfValues);
 
 ```codebyte/js
 const values = [8, 12, 21, 58, 2, 3];
-let productOfValues = 0;
+let productOfValues = 1;
 
 values.forEach((value) => (productOfValues *= value));
 
